@@ -1,0 +1,15 @@
+{
+  "name": "fractional-nft",
+  "version": "1.0.0",
+  "description": "Deployed in Goerli testnet\r FracNFT - https://goerli.etherscan.io/tx/0x1604bea1986dca00494a1c34f76bc9bca347a496307ba5cdf0cdf48627a3619d\r FracToken - https://goerli.etherscan.io/tx/0xa2939c3a4db1bf20c12a588c3a5b73415dca4f93a42b6be8f386dcd572a5adee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.3"
+  }
+}
